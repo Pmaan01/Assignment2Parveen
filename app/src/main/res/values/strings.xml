@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FindMyStuff</string>
+    <string name="item_photo_preview">Item photo preview</string>
+    <string name="item_name_hint">Item Name *</string>
+    <string name="description_hint">Description (optional)</string>
+    <string name="found_location_hint">Found Location *</string>
+    <string name="notes_hint">Notes (optional)</string>
+    <string name="review_request">Review</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="share">Share</string>
+
+
+</resources>
